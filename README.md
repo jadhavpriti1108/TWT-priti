@@ -1,4 +1,4 @@
-# TWT-pritJira: Installation guide
+Jira: Installation guide
 Introduction
 Jira is a popular project management tool. Software development teams use this tool to plan, track, and manage their work. Jira software allows you to track and organise projects in an agile environment. 
 Jira has a wide range of features like task management, customized workflows, analytics, reporting, and option to integrate with popular tools. Teams can customize workflows, issues types and fields as per project requirement. Jira can help teams to stay organized, collaborate, and deliver better results.
